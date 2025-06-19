@@ -1,0 +1,34 @@
+
+<HTML>
+<title> Presentación del Proyecto Grupo 211 EQ.10 </title>
+<HEAD>
+	<H1> <CENTER> Presentación del proyecto ''El lobo curioso''</CENTER> </H1>
+</HEAD>
+<HR>
+<BODY BGCOLOR="#>5E9399" TEXT="#>f000ff">
+<Font size=10 color="#f0f0fa">
+<marquee> ''El lobo curioso'' </marquee>
+</font>
+<center>
+<img src="C:\Users\Sala\Desktop\algo\q.jpg" width="500" height="300" />
+</center>
+<center>
+<font size=6 color="#000099">
+Galvan Morales Dante Nicolas
+</font>
+</center>
+<center>
+<font size=7 color="#777777">
+Ortiz Soto Ian Shaoran Isaac
+</font>
+</center>
+<font size=10 color="#666666">
+Lo que ofrece el plantel 17. ofrece buen nivel academico asi como buenos profesores, aulas decentes buen plan de estudio,ofrece oportunidades para universidades, talleres etc..
+</center>
+<center>
+  
+</center>
+<center>
+con lo que cuenta el plante es con: biblioteca para estudiar o consultar libros, cuenta con canchas para actividades fisicas y deportivas, cuenta con salas de computo para la materia, cuenta con laboratorios para practicas y cuenta con diferentes aulas en buen estado 
+</center>
+</html>

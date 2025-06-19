@@ -1,0 +1,14 @@
+<html>
+ <head>
+  <title> Encabezado </title>
+ </head>
+ <body bgcolor="#006666">
+   <font size=9 color="#000066">
+   <marquee>El lobo curioso </marquee>
+   </font>
+   <font size=5 color="765606"><center>Integrantes:</font>
+<Font size=5 color="#666666>Ortiz Soto Ian Shaoran Isaac ''Iansp3cttzz´´ </font><Font size=5 color="#000066" Galvan Morales Dante Nicolas </center> </font>
+
+</body>
+</html>
+  

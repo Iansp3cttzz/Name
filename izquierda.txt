@@ -1,0 +1,15 @@
+<html>
+<head>
+<title> Lista izquierda </title>
+<head>
+<br> <br> <br><br>
+<body style="background-color:#D9C7B9;"
+ <FONT size=5 COLOR="#51002C">
+ <ol>
+ <li> <a href="presentacion.html" target="frmcuerpo">Precentacion</A></li><br>
+ <li><a href="soylobo.html" target="frmcuerpo">Soy Lobo</A></li><br>
+ <li><ahref="noticia.html" target="frmcuerpo"Noticia</A></li><br>
+</FONT>
+
+</body>
+</html>
